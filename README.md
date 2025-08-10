@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Amina-Are
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python, SQL, excel, power BI and much more!
+- 👩‍⚕️ Amina Aremu · Healthcare Data Analyst
+
+Hi, I’m Amina — a healthcare professional pivoting into tech with a focus on data analytics and public health insights #
+
+  Skills:
+- Power BI, DAX, Python, SQL, Excel, Tableau
+- Healthcare analytics · KPI tracking · Clinical outcomes analysis
+- Data storytelling · Dashboard design · EMIS & eRS systems
+
+- 
 - 💞️ I’m looking to collaborate on healthcare related projects
-- 📫 How to reach me amina_aremu@hotmail.co.uk
+- 📫 How to reach me 📫 Reach me: amina_aremu@hotmail.co.uk · [LinkedIn](https://www.linkedin.com/in/amina-a-6a2891169/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I also do Javascript
 
